@@ -1,0 +1,6 @@
+       // define and init arrayList
+        //add new element
+        //add new element at specific index
+        //check if there is an element existed
+        //get the index for the elemnt
+        //clear the arraylist
