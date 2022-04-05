@@ -1,4 +1,4 @@
-How to draw Java Window?
-What is the most useful properties and functions in Java Window?
-What is Java threads?
-What is Java Main thread?
+1.How to create a Window in Java ?
+2.What is the most useful properties and functions in Java Window?
+3.What is Java threads?
+4.What is Java Main thread?
