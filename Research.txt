@@ -1,0 +1,4 @@
+How to draw Java Window?
+What is the most useful properties and functions in Java Window?
+What is Java threads?
+What is Java Main thread?
